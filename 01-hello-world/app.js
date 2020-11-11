@@ -1,0 +1,1 @@
+console.log ('Hello world')// Print on the console "Hello World"
